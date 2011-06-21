@@ -28,8 +28,7 @@ int main() {
                 l.push_front(1);
             else
                 *i = 1;
-        }
-            
+        }    
     }
 
     cout << ans;
