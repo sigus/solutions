@@ -19,6 +19,5 @@ int main() {
         j--;
         cout << j - m.begin() - i - 1 << ' ';
     }        
-
     return 0;
 }
