@@ -9,6 +9,6 @@ public:
         for (int i = 0; i < pos.size(); i++)
             if (m[pos[i]] > m[mi])
                 mi = pos[i];
-        return m[mi];
-	}
+        return m[mi];    
+    }
 };
