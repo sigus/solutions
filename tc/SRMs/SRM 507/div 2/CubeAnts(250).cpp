@@ -10,5 +10,5 @@ public:
             if (m[pos[i]] > m[mi])
                 mi = pos[i];
         return m[mi];
-	}
+    }
 };
