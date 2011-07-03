@@ -11,7 +11,6 @@ public:
                     s[i] = '1'; 
                 else 
                     s[i] = '0'; 
-
             init = s; 
         } 
         return init; 
