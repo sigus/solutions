@@ -16,5 +16,5 @@ public:
                 s += (*--v.end())--;
         }
         return s;
-    } 
+    }
 };
