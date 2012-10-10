@@ -6,3 +6,4 @@ int main() {
     printf("%d", n*(m + 1));
     return 0;
 }
+

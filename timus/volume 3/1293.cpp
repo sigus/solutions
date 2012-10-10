@@ -6,3 +6,4 @@ int main() {
     printf("%d", n*a*b*2);
     return 0;
 }
+

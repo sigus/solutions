@@ -19,3 +19,4 @@ int main() {
     printf("%f", s);
     return 0;
 }
+
